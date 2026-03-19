@@ -17,7 +17,7 @@
 
 ## Qui suis-je
 
-CEO & Fondateur de **[Helen GN](https://helengn.com)** et développeur full-stack / mobile basé à Conakry. Je conçois des produits technologiques pensés pour l'Afrique de l'Ouest — contraintes réseau réelles, paiements mobiles locaux, interfaces adaptées aux usages terrain.
+CEO &amp; Fondateur de **[Helen GN](https://helengn.com)** et développeur full-stack / mobile basé à Conakry. Je conçois des produits technologiques pensés pour l'Afrique de l'Ouest — contraintes réseau réelles, paiements mobiles locaux, interfaces adaptées aux usages terrain.
 
 Je combine vision produit stratégique et exécution technique hands-on : du schéma de base de données au déploiement production, de la spec fonctionnelle au pitch.
 
@@ -37,10 +37,10 @@ Je combine vision produit stratégique et exécution technique hands-on : du sch
 
 Marketplace e-commerce **WhatsApp-first** pour le marché guinéen. Paiements mobiles natifs, automation n8n, expansion vers la livraison et le micro-crédit.
 
-![React](https://img.shields.io/badge/React_18-101820?style=flat-square&logo=react&logoColor=FEE715)
-![Supabase](https://img.shields.io/badge/Supabase-101820?style=flat-square&logo=supabase&logoColor=FEE715)
-![n8n](https://img.shields.io/badge/n8n-101820?style=flat-square&logo=n8n&logoColor=FEE715)
-![Firebase](https://img.shields.io/badge/Firebase-101820?style=flat-square&logo=firebase&logoColor=FEE715)
+<img src="https://img.shields.io/badge/React_18-101820?style=flat-square&amp;logo=react&amp;logoColor=FEE715" alt="React">
+<img src="https://img.shields.io/badge/Supabase-101820?style=flat-square&amp;logo=supabase&amp;logoColor=FEE715" alt="Supabase">
+<img src="https://img.shields.io/badge/n8n-101820?style=flat-square&amp;logo=n8n&amp;logoColor=FEE715" alt="n8n">
+<img src="https://img.shields.io/badge/Firebase-101820?style=flat-square&amp;logo=firebase&amp;logoColor=FEE715" alt="Firebase">
 
 </td>
 <td width="50%" valign="top">
@@ -49,10 +49,10 @@ Marketplace e-commerce **WhatsApp-first** pour le marché guinéen. Paiements mo
 
 Application VTC pour tricycles à Conakry. Tracking temps réel, OTP, multilingue (Français, Pular, Soussou, Malinké), sécurité JWT/RBAC/SSL Pinning.
 
-![Flutter](https://img.shields.io/badge/Flutter-101820?style=flat-square&logo=flutter&logoColor=FEE715)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-101820?style=flat-square&logo=springboot&logoColor=FEE715)
-![PostGIS](https://img.shields.io/badge/PostGIS-101820?style=flat-square&logo=postgresql&logoColor=FEE715)
-![Firebase RTDB](https://img.shields.io/badge/Firebase_RTDB-101820?style=flat-square&logo=firebase&logoColor=FEE715)
+<img src="https://img.shields.io/badge/Flutter-101820?style=flat-square&amp;logo=flutter&amp;logoColor=FEE715" alt="Flutter">
+<img src="https://img.shields.io/badge/Spring_Boot-101820?style=flat-square&amp;logo=springboot&amp;logoColor=FEE715" alt="Spring Boot">
+<img src="https://img.shields.io/badge/PostGIS-101820?style=flat-square&amp;logo=postgresql&amp;logoColor=FEE715" alt="PostGIS">
+<img src="https://img.shields.io/badge/Firebase_RTDB-101820?style=flat-square&amp;logo=firebase&amp;logoColor=FEE715" alt="Firebase RTDB">
 
 </td>
 </tr>
@@ -68,7 +68,7 @@ Application VTC pour tricycles à Conakry. Tracking temps réel, OTP, multilingu
 
 Plateforme numérique pour la Guinée.
 
-![Co-Founder](https://img.shields.io/badge/Co--Founder-FEE715?style=flat-square&logoColor=101820)
+<img src="https://img.shields.io/badge/Co--Founder-FEE715?style=flat-square&amp;logoColor=101820" alt="Co-Founder">
 
 </td>
 <td width="33%" valign="top">
@@ -77,17 +77,11 @@ Plateforme numérique pour la Guinée.
 
 Plateforme numérique pour la Guinée.
 
-![Co-Founder](https://img.shields.io/badge/Co--Founder-FEE715?style=flat-square&logoColor=101820)
+<img src="https://img.shields.io/badge/Co--Founder-FEE715?style=flat-square&amp;logoColor=101820" alt="Co-Founder">
 
 </td>
 <td width="33%" valign="top">
 
-**[DepChap](#)**
-
-Mise en relation clients & réparateurs professionnels à Conakry. App mobile + plateforme web.
-
-![Flutter](https://img.shields.io/badge/Flutter-101820?style=flat-square&logo=flutter&logoColor=FEE715)
-![Next.js](https://img.shields.io/badge/Next.js-101820?style=flat-square&logo=nextdotjs&logoColor=FEE715)
 
 </td>
 </tr>
@@ -99,15 +93,6 @@ Mise en relation clients & réparateurs professionnels à Conakry. App mobile + 
 <tr>
 <td width="50%" valign="top">
 
-**[KHARANDI](#)**
-
-E-learning multi-tenant pour la Guinée. 35 tables PostgreSQL, intégration Soutra Money, équipe de 4 sur 37 semaines.
-
-![Flutter](https://img.shields.io/badge/Flutter-101820?style=flat-square&logo=flutter&logoColor=FEE715)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-101820?style=flat-square&logo=springboot&logoColor=FEE715)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101820?style=flat-square&logo=postgresql&logoColor=FEE715)
-![Soutra Money](https://img.shields.io/badge/Soutra_Money-101820?style=flat-square&logo=cashapp&logoColor=FEE715)
-
 </td>
 <td width="50%" valign="top">
 
@@ -115,10 +100,10 @@ E-learning multi-tenant pour la Guinée. 35 tables PostgreSQL, intégration Sout
 
 Plateforme étudiante complète — classes, cours, bourses, emplois du temps, tontine, prêts étudiants, chatbot IA intégré.
 
-![Flutter](https://img.shields.io/badge/Flutter-101820?style=flat-square&logo=flutter&logoColor=FEE715)
-![Supabase](https://img.shields.io/badge/Supabase-101820?style=flat-square&logo=supabase&logoColor=FEE715)
-![Firebase](https://img.shields.io/badge/Firebase-101820?style=flat-square&logo=firebase&logoColor=FEE715)
-![IA](https://img.shields.io/badge/Chatbot_IA-101820?style=flat-square&logo=openai&logoColor=FEE715)
+<img src="https://img.shields.io/badge/Flutter-101820?style=flat-square&amp;logo=flutter&amp;logoColor=FEE715" alt="Flutter">
+<img src="https://img.shields.io/badge/Supabase-101820?style=flat-square&amp;logo=supabase&amp;logoColor=FEE715" alt="Supabase">
+<img src="https://img.shields.io/badge/Firebase-101820?style=flat-square&amp;logo=firebase&amp;logoColor=FEE715" alt="Firebase">
+<img src="https://img.shields.io/badge/Chatbot_IA-101820?style=flat-square&amp;logo=openai&amp;logoColor=FEE715" alt="IA">
 
 </td>
 </tr>
@@ -127,11 +112,11 @@ Plateforme étudiante complète — classes, cours, bourses, emplois du temps, t
 
 **[Yenet Sport](#)**
 
-SaaS gestion de clubs de football pour l'Afrique de l'Ouest. 2 apps Flutter distinctes (staff & joueurs) + dashboard web admin.
+SaaS gestion de clubs de football pour l'Afrique de l'Ouest. 2 apps Flutter distinctes (staff &amp; joueurs) + dashboard web admin.
 
-![Flutter](https://img.shields.io/badge/Flutter-101820?style=flat-square&logo=flutter&logoColor=FEE715)
-![Next.js](https://img.shields.io/badge/Next.js-101820?style=flat-square&logo=nextdotjs&logoColor=FEE715)
-![Supabase](https://img.shields.io/badge/Supabase-101820?style=flat-square&logo=supabase&logoColor=FEE715)
+<img src="https://img.shields.io/badge/Flutter-101820?style=flat-square&amp;logo=flutter&amp;logoColor=FEE715" alt="Flutter">
+<img src="https://img.shields.io/badge/Next.js-101820?style=flat-square&amp;logo=nextdotjs&amp;logoColor=FEE715" alt="Next.js">
+<img src="https://img.shields.io/badge/Supabase-101820?style=flat-square&amp;logo=supabase&amp;logoColor=FEE715" alt="Supabase">
 
 </td>
 <td width="50%" valign="top">
@@ -140,35 +125,26 @@ SaaS gestion de clubs de football pour l'Afrique de l'Ouest. 2 apps Flutter dist
 
 Plateforme pub authentique — marques ↔ influenceurs avec escrow paiement, validation livrables et messagerie intégrée.
 
-![React](https://img.shields.io/badge/React-101820?style=flat-square&logo=react&logoColor=FEE715)
-![TypeScript](https://img.shields.io/badge/TypeScript-101820?style=flat-square&logo=typescript&logoColor=FEE715)
-![Supabase](https://img.shields.io/badge/Supabase-101820?style=flat-square&logo=supabase&logoColor=FEE715)
+<img src="https://img.shields.io/badge/React-101820?style=flat-square&amp;logo=react&amp;logoColor=FEE715" alt="React">
+<img src="https://img.shields.io/badge/TypeScript-101820?style=flat-square&amp;logo=typescript&amp;logoColor=FEE715" alt="TypeScript">
+<img src="https://img.shields.io/badge/Supabase-101820?style=flat-square&amp;logo=supabase&amp;logoColor=FEE715" alt="Supabase">
 
 </td>
 </tr>
 </table>
 
-### Contractor & Autres
+### Contractor &amp; Autres
 
 <table>
 <tr>
-<td width="33%" valign="top">
-
-**[Occasion Boss](#)**
-
-Plateforme de petites annonces dédiée à Guinea Conakry. Spec fonctionnelle complète livrée.
-
-![Marketplace](https://img.shields.io/badge/Classifieds-101820?style=flat-square&logoColor=FEE715)
-
-</td>
 <td width="33%" valign="top">
 
 **[Affriliate](#)**
 
 Plateforme d'affiliation — commissions automatiques, escrow, retraits affiliés, webhooks paiement externe.
 
-![Supabase](https://img.shields.io/badge/Supabase-101820?style=flat-square&logo=supabase&logoColor=FEE715)
-![Webhooks](https://img.shields.io/badge/Webhooks-101820?style=flat-square&logo=zapier&logoColor=FEE715)
+<img src="https://img.shields.io/badge/Supabase-101820?style=flat-square&amp;logo=supabase&amp;logoColor=FEE715" alt="Supabase">
+<img src="https://img.shields.io/badge/Webhooks-101820?style=flat-square&amp;logo=zapier&amp;logoColor=FEE715" alt="Webhooks">
 
 </td>
 <td width="33%" valign="top">
@@ -177,8 +153,8 @@ Plateforme d'affiliation — commissions automatiques, escrow, retraits affilié
 
 Transfert d'argent multi-opérateurs — Orange Money, MTN, agrégateurs API et wallet interne.
 
-![Flutter](https://img.shields.io/badge/Flutter-101820?style=flat-square&logo=flutter&logoColor=FEE715)
-![Mobile Money](https://img.shields.io/badge/Mobile_Money-101820?style=flat-square&logo=cashapp&logoColor=FEE715)
+<img src="https://img.shields.io/badge/Flutter-101820?style=flat-square&amp;logo=flutter&amp;logoColor=FEE715" alt="Flutter">
+<img src="https://img.shields.io/badge/Mobile_Money-101820?style=flat-square&amp;logo=cashapp&amp;logoColor=FEE715" alt="Mobile Money">
 
 </td>
 </tr>
@@ -189,19 +165,11 @@ Transfert d'argent multi-opérateurs — Orange Money, MTN, agrégateurs API et 
 
 Application de dactylographie avec IA intégrée.
 
-![Flutter](https://img.shields.io/badge/Flutter-101820?style=flat-square&logo=flutter&logoColor=FEE715)
-![IA](https://img.shields.io/badge/IA-101820?style=flat-square&logo=openai&logoColor=FEE715)
+<img src="https://img.shields.io/badge/Flutter-101820?style=flat-square&amp;logo=flutter&amp;logoColor=FEE715" alt="Flutter">
+<img src="https://img.shields.io/badge/IA-101820?style=flat-square&amp;logo=openai&amp;logoColor=FEE715" alt="IA">
 
 </td>
-<td width="33%" valign="top">
 
-**[Axelor CRM](#)**
-
-Configuration multi-entités pour groupe LANALA — isolation des données de 7 filiales en Guinée.
-
-![CRM](https://img.shields.io/badge/Axelor_CRM-101820?style=flat-square&logoColor=FEE715)
-
-</td>
 <td width="33%"></td>
 </tr>
 </table>
@@ -214,103 +182,102 @@ Configuration multi-entités pour groupe LANALA — isolation des données de 7 
 <tr>
 <td valign="top" width="50%">
 
-**Mobile**
+<b>Mobile</b>
 
-| Technologie | Badge |
-|---|---|
-| Flutter | ![Flutter](https://img.shields.io/badge/Flutter-101820?style=flat-square&logo=flutter&logoColor=FEE715) |
-| Dart | ![Dart](https://img.shields.io/badge/Dart-101820?style=flat-square&logo=dart&logoColor=FEE715) |
-| Riverpod | ![Riverpod](https://img.shields.io/badge/Riverpod-101820?style=flat-square&logo=flutter&logoColor=FEE715) |
-| GoRouter | ![GoRouter](https://img.shields.io/badge/GoRouter-101820?style=flat-square&logo=flutter&logoColor=FEE715) |
-| FlutterFire | ![FlutterFire](https://img.shields.io/badge/FlutterFire-101820?style=flat-square&logo=firebase&logoColor=FEE715) |
-
-</td>
-<td valign="top" width="50%">
-
-**Frontend Web**
-
-| Technologie | Badge |
-|---|---|
-| React 18 | ![React](https://img.shields.io/badge/React_18-101820?style=flat-square&logo=react&logoColor=FEE715) |
-| Next.js | ![Next.js](https://img.shields.io/badge/Next.js-101820?style=flat-square&logo=nextdotjs&logoColor=FEE715) |
-| TypeScript | ![TypeScript](https://img.shields.io/badge/TypeScript-101820?style=flat-square&logo=typescript&logoColor=FEE715) |
-| Vite | ![Vite](https://img.shields.io/badge/Vite-101820?style=flat-square&logo=vite&logoColor=FEE715) |
-| Tailwind CSS | ![TailwindCSS](https://img.shields.io/badge/Tailwind-101820?style=flat-square&logo=tailwindcss&logoColor=FEE715) |
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**Backend**
-
-| Technologie | Badge |
-|---|---|
-| Spring Boot | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-101820?style=flat-square&logo=springboot&logoColor=FEE715) |
-| Java 21 | ![Java](https://img.shields.io/badge/Java_21-101820?style=flat-square&logo=openjdk&logoColor=FEE715) |
-| Node.js | ![Node.js](https://img.shields.io/badge/Node.js-101820?style=flat-square&logo=nodedotjs&logoColor=FEE715) |
+<table>
+<tr><td>Flutter</td><td><img src="https://img.shields.io/badge/Flutter-101820?style=flat-square&amp;logo=flutter&amp;logoColor=FEE715" alt="Flutter"></td></tr>
+<tr><td>Dart</td><td><img src="https://img.shields.io/badge/Dart-101820?style=flat-square&amp;logo=dart&amp;logoColor=FEE715" alt="Dart"></td></tr>
+<tr><td>Riverpod</td><td><img src="https://img.shields.io/badge/Riverpod-101820?style=flat-square&amp;logo=flutter&amp;logoColor=FEE715" alt="Riverpod"></td></tr>
+<tr><td>GoRouter</td><td><img src="https://img.shields.io/badge/GoRouter-101820?style=flat-square&amp;logo=flutter&amp;logoColor=FEE715" alt="GoRouter"></td></tr>
+<tr><td>FlutterFire</td><td><img src="https://img.shields.io/badge/FlutterFire-101820?style=flat-square&amp;logo=firebase&amp;logoColor=FEE715" alt="FlutterFire"></td></tr>
+</table>
 
 </td>
 <td valign="top" width="50%">
 
-**Base de données & Cloud**
+<b>Frontend Web</b>
 
-| Technologie | Badge |
-|---|---|
-| PostgreSQL | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101820?style=flat-square&logo=postgresql&logoColor=FEE715) |
-| Supabase | ![Supabase](https://img.shields.io/badge/Supabase-101820?style=flat-square&logo=supabase&logoColor=FEE715) |
-| Firebase | ![Firebase](https://img.shields.io/badge/Firebase-101820?style=flat-square&logo=firebase&logoColor=FEE715) |
-| PostGIS | ![PostGIS](https://img.shields.io/badge/PostGIS-101820?style=flat-square&logo=postgresql&logoColor=FEE715) |
+<table>
+<tr><td>React 18</td><td><img src="https://img.shields.io/badge/React_18-101820?style=flat-square&amp;logo=react&amp;logoColor=FEE715" alt="React 18"></td></tr>
+<tr><td>Next.js</td><td><img src="https://img.shields.io/badge/Next.js-101820?style=flat-square&amp;logo=nextdotjs&amp;logoColor=FEE715" alt="Next.js"></td></tr>
+<tr><td>TypeScript</td><td><img src="https://img.shields.io/badge/TypeScript-101820?style=flat-square&amp;logo=typescript&amp;logoColor=FEE715" alt="TypeScript"></td></tr>
+<tr><td>Vite</td><td><img src="https://img.shields.io/badge/Vite-101820?style=flat-square&amp;logo=vite&amp;logoColor=FEE715" alt="Vite"></td></tr>
+<tr><td>Tailwind CSS</td><td><img src="https://img.shields.io/badge/Tailwind-101820?style=flat-square&amp;logo=tailwindcss&amp;logoColor=FEE715" alt="Tailwind CSS"></td></tr>
+</table>
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-**Infrastructure & DevOps**
+<b>Backend</b>
 
-| Technologie | Badge |
-|---|---|
-| Docker | ![Docker](https://img.shields.io/badge/Docker-101820?style=flat-square&logo=docker&logoColor=FEE715) |
-| Nginx | ![Nginx](https://img.shields.io/badge/Nginx-101820?style=flat-square&logo=nginx&logoColor=FEE715) |
-| AWS | ![AWS](https://img.shields.io/badge/AWS-101820?style=flat-square&logo=amazonwebservices&logoColor=FEE715) |
-| DigitalOcean | ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-101820?style=flat-square&logo=digitalocean&logoColor=FEE715) |
-| Firebase Hosting | ![Firebase Hosting](https://img.shields.io/badge/Firebase_Hosting-101820?style=flat-square&logo=firebase&logoColor=FEE715) |
+<table>
+<tr><td>Spring Boot</td><td><img src="https://img.shields.io/badge/Spring_Boot-101820?style=flat-square&amp;logo=springboot&amp;logoColor=FEE715" alt="Spring Boot"></td></tr>
+<tr><td>Java 21</td><td><img src="https://img.shields.io/badge/Java_21-101820?style=flat-square&amp;logo=openjdk&amp;logoColor=FEE715" alt="Java 21"></td></tr>
+<tr><td>Node.js</td><td><img src="https://img.shields.io/badge/Node.js-101820?style=flat-square&amp;logo=nodedotjs&amp;logoColor=FEE715" alt="Node.js"></td></tr>
+</table>
 
 </td>
 <td valign="top" width="50%">
 
-**Automation & Paiements**
+<b>Base de données &amp; Cloud</b>
 
-| Technologie | Badge |
-|---|---|
-| n8n | ![n8n](https://img.shields.io/badge/n8n-101820?style=flat-square&logo=n8n&logoColor=FEE715) |
-| Orange Money | ![Orange Money](https://img.shields.io/badge/Orange_Money-101820?style=flat-square&logo=orange&logoColor=FEE715) |
-| MTN MoMo | ![MTN MoMo](https://img.shields.io/badge/MTN_MoMo-101820?style=flat-square&logo=mtn&logoColor=FEE715) |
-| Soutra Money | ![Soutra Money](https://img.shields.io/badge/Soutra_Money-101820?style=flat-square&logo=cashapp&logoColor=FEE715) |
-| Lengo Pay | ![Lengo Pay](https://img.shields.io/badge/Lengo_Pay-101820?style=flat-square&logo=stripe&logoColor=FEE715) |
-| CyberSource | ![CyberSource](https://img.shields.io/badge/CyberSource-101820?style=flat-square&logo=visa&logoColor=FEE715) |
+<table>
+<tr><td>PostgreSQL</td><td><img src="https://img.shields.io/badge/PostgreSQL-101820?style=flat-square&amp;logo=postgresql&amp;logoColor=FEE715" alt="PostgreSQL"></td></tr>
+<tr><td>Supabase</td><td><img src="https://img.shields.io/badge/Supabase-101820?style=flat-square&amp;logo=supabase&amp;logoColor=FEE715" alt="Supabase"></td></tr>
+<tr><td>Firebase</td><td><img src="https://img.shields.io/badge/Firebase-101820?style=flat-square&amp;logo=firebase&amp;logoColor=FEE715" alt="Firebase"></td></tr>
+<tr><td>PostGIS</td><td><img src="https://img.shields.io/badge/PostGIS-101820?style=flat-square&amp;logo=postgresql&amp;logoColor=FEE715" alt="PostGIS"></td></tr>
+</table>
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-**Sécurité & Architecture**
+<b>Infrastructure &amp; DevOps</b>
 
-| Technologie | Badge |
-|---|---|
-| JWT | ![JWT](https://img.shields.io/badge/JWT-101820?style=flat-square&logo=jsonwebtokens&logoColor=FEE715) |
-| Clean Architecture | ![Clean Arch](https://img.shields.io/badge/Clean_Architecture-101820?style=flat-square&logoColor=FEE715) |
-| RBAC | ![RBAC](https://img.shields.io/badge/RBAC-101820?style=flat-square&logoColor=FEE715) |
-| WebSocket | ![WebSocket](https://img.shields.io/badge/WebSocket-101820?style=flat-square&logo=socket.io&logoColor=FEE715) |
-| SSL Pinning | ![SSL Pinning](https://img.shields.io/badge/SSL_Pinning-101820?style=flat-square&logoColor=FEE715) |
+<table>
+<tr><td>Docker</td><td><img src="https://img.shields.io/badge/Docker-101820?style=flat-square&amp;logo=docker&amp;logoColor=FEE715" alt="Docker"></td></tr>
+<tr><td>Nginx</td><td><img src="https://img.shields.io/badge/Nginx-101820?style=flat-square&amp;logo=nginx&amp;logoColor=FEE715" alt="Nginx"></td></tr>
+<tr><td>AWS</td><td><img src="https://img.shields.io/badge/AWS-101820?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=FEE715" alt="AWS"></td></tr>
+<tr><td>DigitalOcean</td><td><img src="https://img.shields.io/badge/DigitalOcean-101820?style=flat-square&amp;logo=digitalocean&amp;logoColor=FEE715" alt="DigitalOcean"></td></tr>
+<tr><td>Firebase Hosting</td><td><img src="https://img.shields.io/badge/Firebase_Hosting-101820?style=flat-square&amp;logo=firebase&amp;logoColor=FEE715" alt="Firebase Hosting"></td></tr>
+</table>
+
+</td>
+<td valign="top" width="50%">
+
+<b>Automation &amp; Paiements</b>
+
+<table>
+<tr><td>n8n</td><td><img src="https://img.shields.io/badge/n8n-101820?style=flat-square&amp;logo=n8n&amp;logoColor=FEE715" alt="n8n"></td></tr>
+<tr><td>Orange Money</td><td><img src="https://img.shields.io/badge/Orange_Money-101820?style=flat-square&amp;logo=orange&amp;logoColor=FEE715" alt="Orange Money"></td></tr>
+<tr><td>MTN MoMo</td><td><img src="https://img.shields.io/badge/MTN_MoMo-101820?style=flat-square&amp;logo=mtn&amp;logoColor=FEE715" alt="MTN MoMo"></td></tr>
+<tr><td>Soutra Money</td><td><img src="https://img.shields.io/badge/Soutra_Money-101820?style=flat-square&amp;logo=cashapp&amp;logoColor=FEE715" alt="Soutra Money"></td></tr>
+<tr><td>Lengo Pay</td><td><img src="https://img.shields.io/badge/Lengo_Pay-101820?style=flat-square&amp;logo=stripe&amp;logoColor=FEE715" alt="Lengo Pay"></td></tr>
+<tr><td>CyberSource</td><td><img src="https://img.shields.io/badge/CyberSource-101820?style=flat-square&amp;logo=visa&amp;logoColor=FEE715" alt="CyberSource"></td></tr>
+</table>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+<b>Sécurité &amp; Architecture</b>
+
+<table>
+<tr><td>JWT</td><td><img src="https://img.shields.io/badge/JWT-101820?style=flat-square&amp;logo=jsonwebtokens&amp;logoColor=FEE715" alt="JWT"></td></tr>
+<tr><td>Clean Architecture</td><td><img src="https://img.shields.io/badge/Clean_Architecture-101820?style=flat-square&amp;logoColor=FEE715" alt="Clean Architecture"></td></tr>
+<tr><td>RBAC</td><td><img src="https://img.shields.io/badge/RBAC-101820?style=flat-square&amp;logoColor=FEE715" alt="RBAC"></td></tr>
+<tr><td>WebSocket</td><td><img src="https://img.shields.io/badge/WebSocket-101820?style=flat-square&amp;logo=socket.io&amp;logoColor=FEE715" alt="WebSocket"></td></tr>
+<tr><td>SSL Pinning</td><td><img src="https://img.shields.io/badge/SSL_Pinning-101820?style=flat-square&amp;logoColor=FEE715" alt="SSL Pinning"></td></tr>
+</table>
 
 </td>
 <td valign="top" width="50%"></td>
 </tr>
 </table>
-
 ---
 
 ## Ce qui me différencie
@@ -319,11 +286,11 @@ Configuration multi-entités pour groupe LANALA — isolation des données de 7 
 
 **Full-Stack de A à Z** — Mobile Flutter + Web React/Next.js + Backend Spring Boot + DevOps complet. Du schéma BDD (35 tables) au déploiement production Docker/Nginx/AWS.
 
-**Architecture & Sécurité** — Clean Architecture, DDD, multi-tenant, RBAC, JWT, SSL Pinning, KYC, Rate limiting, PostGIS pour la géolocalisation temps réel.
+**Architecture &amp; Sécurité** — Clean Architecture, DDD, multi-tenant, RBAC, JWT, SSL Pinning, KYC, Rate limiting, PostGIS pour la géolocalisation temps réel.
 
-**Documentation & Pédagogie** — Specs fonctionnelles complètes, curricula pour débutants en français, commentaires exhaustifs dans le code.
+**Documentation &amp; Pédagogie** — Specs fonctionnelles complètes, curricula pour débutants en français, commentaires exhaustifs dans le code.
 
-**Lead Tech & Produit** — Coordination d'équipes jusqu'à 4 personnes, propositions commerciales, contrats, vision stratégique et exécution technique simultanées.
+**Lead Tech &amp; Produit** — Coordination d'équipes jusqu'à 4 personnes, propositions commerciales, contrats, vision stratégique et exécution technique simultanées.
 
 ---
 
@@ -333,15 +300,11 @@ Configuration multi-entités pour groupe LANALA — isolation des données de 7 
 
 <table>
 <tr>
-<td>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=andersongoumou&show_icons=true&bg_color=101820&border_color=FEE715&title_color=FEE715&icon_color=FEE715&text_color=ffffff&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github)
-
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=andersongoumou&amp;show_icons=true&amp;bg_color=101820&amp;border_color=FEE715&amp;title_color=FEE715&amp;icon_color=FEE715&amp;text_color=ffffff&amp;hide_border=false&amp;count_private=true&amp;include_all_commits=true&amp;rank_icon=github" alt="Stats">
 </td>
-<td>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersongoumou&layout=compact&bg_color=101820&border_color=FEE715&title_color=FEE715&text_color=ffffff&hide_border=false&langs_count=10)
-
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersongoumou&amp;layout=compact&amp;bg_color=101820&amp;border_color=FEE715&amp;title_color=FEE715&amp;text_color=ffffff&amp;hide_border=false&amp;langs_count=10" alt="Top Langs">
 </td>
 </tr>
 </table>
@@ -353,7 +316,6 @@ Configuration multi-entités pour groupe LANALA — isolation des données de 7 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andersongoumou&bg_color=101820&color=FEE715&line=FEE715&point=ffffff&area=true&area_color=FEE715&hide_border=false&border_color=FEE715&width=900)
 
 </div>
-
 ---
 
 <div align="center">
